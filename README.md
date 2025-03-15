@@ -1,3 +1,4 @@
+
 # README for Student Activity Management System
 
 ## Overview
@@ -72,5 +73,3 @@ This project is licensed under the MIT License.
 - Thanks to the contributors and the community for their support and feedback.
 
 ---
-
-Feel free to modify this README file to better suit your project or add any additional information that may be relevant!
