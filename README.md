@@ -1,4 +1,4 @@
-# Student Management System
+[# Student Management System
 
 ## Overview
 
@@ -14,9 +14,8 @@ The Student Management System is a comprehensive solution designed to manage and
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **java**
+
 - **Version Control**: Git, GitHub
 
 ## Installation
@@ -79,3 +78,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or issues, please contact [isuru781](https://github.com/isuru781).
+](https://www.blackbox.ai/share/bc8e465b-2078-401c-ae8f-a6c0124003c5)
