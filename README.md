@@ -1,5 +1,5 @@
 
-# README for Student Activity Management System
+# README for Student Management System
 
 ## Overview
 The Student Activity Management System is a Java-based application designed to manage student registrations, track their module marks, and generate reports. This system allows users to perform various operations such as registering students, checking available seats, adding student details, and saving/loading student data from a file.
